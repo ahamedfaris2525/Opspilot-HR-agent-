@@ -1,0 +1,12 @@
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+.git
+.env
+chroma_db
+opspilot.egg-info
+tests
+test_*.py
+tet_*.py
